@@ -1,8 +1,8 @@
 const Footer = () => {
   return ( 
-    <div>
-      Made by Ruge
-    </div>
+    <footer>
+      Developed by Ruge
+    </footer>
   );
 }
 
